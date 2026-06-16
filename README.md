@@ -41,3 +41,4 @@
 if number==0: 
  print("0입니다")
 ```
+[케빈깃헙](https://github.com/kebin7942/firstgit1)
